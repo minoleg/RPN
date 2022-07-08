@@ -1,0 +1,13 @@
+{
+  "name": "rpn-calc",
+  "version": "1.0.0",
+  "description": "Reverse Polish Notation Calculator",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/test.js"
+  },
+  "keywords": [],
+  "author": "Oleg Minukhin",
+  "license": "ISC"
+}
